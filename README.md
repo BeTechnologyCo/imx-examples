@@ -10,6 +10,8 @@
 
 # Immutable X Examples
 
+Created project with ID: 1998 
+
 ## Introduction
 
 This repository contains example scripts for interacting with Immutable X APIs. 
